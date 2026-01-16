@@ -79,7 +79,7 @@ Analyzed trends in genres, content type, release year, and ratings
 
 Identified key patterns to understand platform content strategy
 
-🔗 GitHub Project Link : 
+🔗 GitHub Project Link : https://github.com/sagarmanikpuri/Amazon-Prime.git
 
 📌 Amazon Prime Dashboard
 
@@ -90,7 +90,8 @@ Designed an interactive Power BI dashboard for Amazon Prime content
 Visualized KPIs such as content distribution, genre-wise insights, and release trends
 
 Enabled data-driven insights using slicers and dynamic visuals
-🔗 Dashboard Link
+
+🔗 Dashboard Link : https://github.com/sagarmanikpuri/Amazon_prime_dashboard_POWERBI.git
 
 📌 Product Dissection of Amazon Prime
 
@@ -101,7 +102,8 @@ Analyzed Amazon Prime dataset using advanced SQL queries
 Used joins, subqueries, and aggregations to extract meaningful insights
 
 Evaluated content structure and performance from a business perspective
-🔗 GitHub Project Link
+
+🔗 GitHub Project Link : https://github.com/sagarmanikpuri/Product_Dissection_SQL.git
 
 📌 Sales Performance Dashboard
 
@@ -112,7 +114,8 @@ Built a sales performance dashboard to track revenue, growth, and KPIs
 Analyzed sales trends across time and categories
 
 Delivered actionable insights for business decision-making
-🔗 Dashboard Link
+
+🔗 Dashboard Link : https://github.com/sagarmanikpuri/Sales_performance_dashboard.git
 
 📌 HR Analytics Dashboard
 
@@ -123,4 +126,5 @@ Created an HR dashboard using Excel pivot tables and charts
 Analyzed employee metrics such as attrition, department distribution, and performance
 
 Presented insights in a clean, management-friendly format
-🔗 Project Link
+
+🔗 Project Link : https://github.com/sagarmanikpuri/HR_Dashboard_MSExcel.git
